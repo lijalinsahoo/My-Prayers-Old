@@ -7,7 +7,7 @@
     <author email="support@pocketapp.in" href="http://pocketapp.in">
         God Loves You Team
     </author>
-    <content src="index.html" />
+    <content src="welcome.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
